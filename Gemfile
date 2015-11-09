@@ -6,7 +6,7 @@ gem 'bcrypt', '3.1.7'
 gem 'mini_magick', '3.8.0'
 gem 'fog', '1.26.0'
 gem 'will_paginate', '3.0.7'
-# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+gem "acts_as_follower"
 gem 'rails', '4.2.4'
 gem 'puma'
 # Use postgresql as the database for Active Record
